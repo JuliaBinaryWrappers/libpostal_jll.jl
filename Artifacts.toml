@@ -1,0 +1,288 @@
+[[libpostal]]
+arch = "aarch64"
+git-tree-sha1 = "442d8b7bd9a2b0e9191405bf8c8e4c7712d59efa"
+os = "macos"
+
+    [[libpostal.download]]
+    sha256 = "b7b20dd34ad624110b337357347e2f271c1187abdb7e4a2f6322780844f44fbb"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.aarch64-apple-darwin.tar.gz"
+[[libpostal]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b9f3129bac1642b5d142466d5a588c60a98eb333"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "51af8359c05d625998febe67c1eed8ac820c6d6b31d85ac3a4bef34724bfa9b9"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[libpostal]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b9f3129bac1642b5d142466d5a588c60a98eb333"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "51af8359c05d625998febe67c1eed8ac820c6d6b31d85ac3a4bef34724bfa9b9"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[libpostal]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "100afe04e17dd42af77e55c61053a0ed922e85eb"
+libc = "musl"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "dce341ee9cd9a642fb3d986aab96081203b97e2f9ef44d6a4a1359e2564b088f"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[libpostal]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "100afe04e17dd42af77e55c61053a0ed922e85eb"
+libc = "musl"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "dce341ee9cd9a642fb3d986aab96081203b97e2f9ef44d6a4a1359e2564b088f"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[libpostal]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2bb88369588f11471533f3e5f29d9eb5561ddee7"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "3b7d1b70955ed82a13f68fa7fb93295cab0ed0eb87b308799a5a5d28d91baed8"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[libpostal]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2bb88369588f11471533f3e5f29d9eb5561ddee7"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "3b7d1b70955ed82a13f68fa7fb93295cab0ed0eb87b308799a5a5d28d91baed8"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[libpostal]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "80988c8e4ccb4bf15e25e663d34783c2929bc8f4"
+libc = "musl"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "be29ce2a1e6c9381090eec2ffcb44761653be3075609621f0ed3936f60e9bac7"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[libpostal]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "80988c8e4ccb4bf15e25e663d34783c2929bc8f4"
+libc = "musl"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "be29ce2a1e6c9381090eec2ffcb44761653be3075609621f0ed3936f60e9bac7"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[libpostal]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b40b920842b3195355019a73984fea18a7c5007a"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "d830862db1a91ff9ef537e874ab7bd4a942d1682a0e012c6b118bb64b7dc8c13"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[libpostal]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b40b920842b3195355019a73984fea18a7c5007a"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "d830862db1a91ff9ef537e874ab7bd4a942d1682a0e012c6b118bb64b7dc8c13"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[libpostal]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cee1f145ecf36082af3e7626db292f44a37c7536"
+libc = "musl"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "d2d82046c30a41df8568aeac55f9d7fde772d77c0e0c22e8528430c65b0826d9"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[libpostal]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cee1f145ecf36082af3e7626db292f44a37c7536"
+libc = "musl"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "d2d82046c30a41df8568aeac55f9d7fde772d77c0e0c22e8528430c65b0826d9"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[libpostal]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "72914ed0978c4af41949c26083db3ce1c543f0ed"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "160214dd4c1aabf3e54d30f934a9e9c5026d950ba91c1025543bf92e85d7a439"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[libpostal]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "72914ed0978c4af41949c26083db3ce1c543f0ed"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "160214dd4c1aabf3e54d30f934a9e9c5026d950ba91c1025543bf92e85d7a439"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[libpostal]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0bdc8768f8afe66135c31c1ddb74f4d45f285f8b"
+libc = "musl"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "e04729d8692e718810d9bf2efb0ebf14b43b4e6f950012b0c12173dc412cce59"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.i686-linux-musl-cxx03.tar.gz"
+[[libpostal]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0bdc8768f8afe66135c31c1ddb74f4d45f285f8b"
+libc = "musl"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "e04729d8692e718810d9bf2efb0ebf14b43b4e6f950012b0c12173dc412cce59"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.i686-linux-musl-cxx11.tar.gz"
+[[libpostal]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "405abae9f7e1f6124114f75ab319a9de12a9a0af"
+os = "windows"
+
+    [[libpostal.download]]
+    sha256 = "164b568bd0cdb7c968265e36e0e15c72a04bc7c454ff1d81be10fd0b11dc71c6"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.i686-w64-mingw32-cxx03.tar.gz"
+[[libpostal]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "405abae9f7e1f6124114f75ab319a9de12a9a0af"
+os = "windows"
+
+    [[libpostal.download]]
+    sha256 = "164b568bd0cdb7c968265e36e0e15c72a04bc7c454ff1d81be10fd0b11dc71c6"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[libpostal]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fcb3409850f2b8298cda76025fd52a7a5b90ecc4"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "a770c0659aa59ddd7aa3670ebb9c91db7922a35a04bdb8caa3bc22edfed53feb"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[libpostal]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fcb3409850f2b8298cda76025fd52a7a5b90ecc4"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "a770c0659aa59ddd7aa3670ebb9c91db7922a35a04bdb8caa3bc22edfed53feb"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[libpostal]]
+arch = "x86_64"
+git-tree-sha1 = "0052f84cfeb185f4d8accd15f65e5218acc39c7e"
+os = "macos"
+
+    [[libpostal.download]]
+    sha256 = "9cb5eb0578a40953bc653bc8b892bd4bb65b3a6cacf522a780e30492b435dfe9"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.x86_64-apple-darwin.tar.gz"
+[[libpostal]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "64cd62427b1c419e837f5f4ac32329d349a18b60"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "1dd82c3dafca88c1282fc9b515f6b7c64a6174ec69f6eedd504e3c60b5436090"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[libpostal]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "64cd62427b1c419e837f5f4ac32329d349a18b60"
+libc = "glibc"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "1dd82c3dafca88c1282fc9b515f6b7c64a6174ec69f6eedd504e3c60b5436090"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[libpostal]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a6606573471b14b669cbc7d8a2fb731633745564"
+libc = "musl"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "509122253ccabfb3dd8d7368f0906575abc85403530bed962814fc2d87b0b08f"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[libpostal]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a6606573471b14b669cbc7d8a2fb731633745564"
+libc = "musl"
+os = "linux"
+
+    [[libpostal.download]]
+    sha256 = "509122253ccabfb3dd8d7368f0906575abc85403530bed962814fc2d87b0b08f"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[libpostal]]
+arch = "x86_64"
+git-tree-sha1 = "3f4ed017d720fc20b0a9a9ff4bdbf2d94b89070f"
+os = "freebsd"
+
+    [[libpostal.download]]
+    sha256 = "4cd9a5b3c917ebff3be7f5a2d9a598cf8becc0e651a08ee39a749a45af4eca4f"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.x86_64-unknown-freebsd.tar.gz"
+[[libpostal]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "916e940568a701d961f171f8340a7ca14198323b"
+os = "windows"
+
+    [[libpostal.download]]
+    sha256 = "2958b5deb9c4c431f351c3fbea5d95c6b28ce0b9a7a7c0b1c698051281c99d93"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libpostal]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "916e940568a701d961f171f8340a7ca14198323b"
+os = "windows"
+
+    [[libpostal.download]]
+    sha256 = "2958b5deb9c4c431f351c3fbea5d95c6b28ce0b9a7a7c0b1c698051281c99d93"
+    url = "https://github.com/JuliaBinaryWrappers/libpostal_jll.jl/releases/download/libpostal-v1.1.0+0/libpostal.v1.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
